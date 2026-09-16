@@ -1,0 +1,23 @@
+{
+  "repo": "logic-pro-11-2",
+  "product": "Logic Pro 11.2",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "daw",
+  "topics": [
+    "logic-pro-x",
+    "arrange-marker-desk",
+    "alchemy-sampler-windows",
+    "logic-11",
+    "how-to-install-logic",
+    "logic-desktop-package",
+    "channel-eq-suite",
+    "tempo-region-tools",
+    "studio-arrange-build",
+    "logic-pro-studio"
+  ],
+  "site": "toolix.me"
+}
